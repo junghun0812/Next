@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={Styles.main}>
       <div className={Styles.textarea}>
-        <h1 className={Styles.text}>welcome to jinbin site</h1>
+        <h1 className={Styles.text}>welcome to junghun site</h1>
       </div>
       <section className={Styles.slideshow}>
         <div className={Styles.slide}>
